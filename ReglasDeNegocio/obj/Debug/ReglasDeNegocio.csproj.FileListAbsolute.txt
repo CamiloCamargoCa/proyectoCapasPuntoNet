@@ -1,0 +1,27 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\ReglasDeNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\ReglasDeNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\ReglasDeNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\ReglasDeNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\ReglasDeNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\ReglasDeNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\ReglasDeNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\ReglasDeNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.pdb
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.pdb
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\ReglasDeNegocio\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\ReglasDeNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\ReglasDeNegocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\ReglasDeNegocio\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.pdb

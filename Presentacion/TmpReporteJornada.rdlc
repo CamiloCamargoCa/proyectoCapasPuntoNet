@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Tablix Name="Tablix1">
+        <TablixBody>
+          <TablixColumns>
+            <TablixColumn>
+              <Width>5.72792cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>8.90292cm</Width>
+            </TablixColumn>
+          </TablixColumns>
+          <TablixRows>
+            <TablixRow>
+              <Height>0.6cm</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox3">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Identificador de Jornada</Value>
+                              <Style>
+                                <Color>White</Color>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox3</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <BackgroundColor>Black</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="Textbox5">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Nombre Jornada</Value>
+                              <Style>
+                                <Color>White</Color>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>Textbox5</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <BackgroundColor>Black</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+            <TablixRow>
+              <Height>0.6cm</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="jor_id">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!jor_id.Value</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>jor_id</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="jor_nom">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!jor_nom.Value</Value>
+                              <Style />
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <rd:DefaultName>jor_nom</rd:DefaultName>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                          <Style>Solid</Style>
+                        </Border>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                    <rd:Selected>true</rd:Selected>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+          </TablixRows>
+        </TablixBody>
+        <TablixColumnHierarchy>
+          <TablixMembers>
+            <TablixMember />
+            <TablixMember />
+          </TablixMembers>
+        </TablixColumnHierarchy>
+        <TablixRowHierarchy>
+          <TablixMembers>
+            <TablixMember>
+              <KeepWithGroup>After</KeepWithGroup>
+            </TablixMember>
+            <TablixMember>
+              <Group Name="Detalles" />
+            </TablixMember>
+          </TablixMembers>
+        </TablixRowHierarchy>
+        <DataSetName>dsJornadas</DataSetName>
+        <Top>0.43146cm</Top>
+        <Left>1.05516cm</Left>
+        <Height>1.2cm</Height>
+        <Width>14.63083cm</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Tablix>
+    </ReportItems>
+    <Height>2in</Height>
+    <Style />
+  </Body>
+  <Width>6.5in</Width>
+  <Page>
+    <PageHeader>
+      <Height>2.68745cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <ReportItems>
+        <Image Name="Image1">
+          <Source>Embedded</Source>
+          <Value>img2</Value>
+          <Sizing>FitProportional</Sizing>
+          <Top>0.28787cm</Top>
+          <Left>0.31432cm</Left>
+          <Height>2.10854cm</Height>
+          <Width>5.83917cm</Width>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </Image>
+        <Textbox Name="Textbox2">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Reporte Jornadas</Value>
+                  <Style>
+                    <FontSize>18pt</FontSize>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox2</rd:DefaultName>
+          <Top>0.92287cm</Top>
+          <Left>7.93433cm</Left>
+          <Height>0.9175cm</Height>
+          <Width>5.46333cm</Width>
+          <ZIndex>1</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+      </ReportItems>
+      <Style>
+        <Border>
+          <Style>None</Style>
+        </Border>
+      </Style>
+    </PageHeader>
+    <PageFooter>
+      <Height>2.54cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <Style>
+        <Border>
+          <Style>None</Style>
+        </Border>
+      </Style>
+    </PageFooter>
+    <PageHeight>29.7cm</PageHeight>
+    <PageWidth>21cm</PageWidth>
+    <LeftMargin>2cm</LeftMargin>
+    <RightMargin>2cm</RightMargin>
+    <TopMargin>2cm</TopMargin>
+    <BottomMargin>2cm</BottomMargin>
+    <ColumnSpacing>0.13cm</ColumnSpacing>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="ReglasDeNegocio">
+      <ConnectionProperties>
+        <DataProvider>System.Data.DataSet</DataProvider>
+        <ConnectString>/* Local Connection */</ConnectString>
+      </ConnectionProperties>
+      <rd:DataSourceID>7b4bb64a-5d30-4275-9b12-f50b10c53edf</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="dsJornadas">
+      <Query>
+        <DataSourceName>ReglasDeNegocio</DataSourceName>
+        <CommandText>/* Local Query */</CommandText>
+      </Query>
+      <Fields>
+        <Field Name="jor_id">
+          <DataField>jor_id</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="jor_nom">
+          <DataField>jor_nom</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <rd:DataSetInfo>
+        <rd:DataSetName>ReglasDeNegocio</rd:DataSetName>
+        <rd:TableName>JornadaControlador</rd:TableName>
+        <rd:ObjectDataSourceSelectMethod>ListarJornadas</rd:ObjectDataSourceSelectMethod>
+        <rd:ObjectDataSourceSelectMethodSignature>System.Collections.Generic.List`1[ReglasDeNegocio.JornadaDTO] ListarJornadas(System.String)</rd:ObjectDataSourceSelectMethodSignature>
+        <rd:ObjectDataSourceType>ReglasDeNegocio.JornadaControlador, ReglasDeNegocio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</rd:ObjectDataSourceType>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <EmbeddedImages>
+    <EmbeddedImage Name="img2">
+      <MIMEType>image/jpeg</MIMEType>
+      <ImageData>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
+K6XUUQSul1FEErpdRRBK6XUUQSul1FEErpdRRBK6XUUQSul1FEErpdRRBK6XUUQSul1FEErpdRRBK6XUUQSul1FEErpdRRBK6XUUQSul1FEErrKgiDNkssIgzZLLCIM2SywiDNkssIgzZLLCIM2SywiDNkssIgzZLLCIM2SywiDNkssIgzZLLCIM2SywiDNkssIgzZLLCIM2SywiDNkssIgzZLLCIM2SywpxjlFzKCNDH6KxbrUdqVunyhstPM44RvdhBO7DvfgY84AZ+XFxfi9wQM1vnGgwKYrfUu1a6plc1lLUAtzHigmHijYXmMeHmQhps3qV52aDWPA7ukqjfO1qabnuzaS3h8jwfQq1OcajFLLfVu162kmkaaeZ4itk+OKV8dj0Ifj0uCPmD6LNPtPUamfCGiq8r48wSNGWOVi5wABx55P7UqctBZLLf0O1a6uqmRspp294Mg58EzWBg6vc7HhvuvLLodXBA589LUtY1rXuc6CVrQx3wuJIsAbGx9ilOWqslltKfRaqqha+mpqh7HBxa5sErmkM+MggWIHmViu0ep06Jr9RpqiJrjZrpIJGNJtewJABNkq8tZZFdZYSnKlERVgREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQFOM2KIi56sIuF0tJvito3vNMYQXlh/MtdiWNjZdt7kXEEVweCWDoiLLoR74q46VsQFMYml9o/s0YjDZGva6PEWGFpH9ebk8qw9oOok3dJESSSSaeIkuzEjHHjqxwBZ6W80RCYtb2hVgpn37vvy5hZN3cZcxjGzNwaCD5VDgCegLh58eCo3hWVFVFI57G9wTg1sYbGAQ1tsOhADBa6IhMemHftdFExoMBDAAL08ZOQaGNkJ/8wNbYH0JVNZvSqraZ8dS2mLZLZf0ZnNpHSkkdLl73uJtfxG1roiExim3nV0sbRT9wMGhgP2aEuDWuD4+SL+BwBZ6Eea82sblqdagw
+1BzXNyDuGAch0zhz86qX8PRYRCNQiIiv/9k=</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>3bf86210-f7d6-486c-b75e-b82daabd9a49</rd:ReportID>
+</Report>

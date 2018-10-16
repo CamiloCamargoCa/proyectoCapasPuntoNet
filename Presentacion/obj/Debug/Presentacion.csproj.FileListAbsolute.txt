@@ -1,0 +1,220 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Presentacion.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Presentacion.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Presentacion.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\ReglasDeNegocio.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\System.Web.Providers.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\ReglasDeNegocio.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SolucionCapasCamiloCamargo\Presentacion\bin\AjaxControlToolkit.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Presentacion.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Presentacion.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Presentacion.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\AjaxControlToolkit.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Owin.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\ReglasDeNegocio.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\System.Web.Providers.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\ReglasDeNegocio.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\System.Web.Optimization.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\ProyectoPorCapas\Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Presentacion.dll.config
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Presentacion.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Presentacion.pdb
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\AjaxControlToolkit.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\EntityFramework.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\EntityFramework.SqlServer.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Newtonsoft.Json.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Owin.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\ReglasDeNegocio.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\System.Web.Optimization.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\System.Web.Providers.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\WebGrease.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\ReglasDeNegocio.pdb
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\System.Web.Optimization.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Antlr3.Runtime.pdb
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Newtonsoft.Json.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\EntityFramework.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\EntityFramework.SqlServer.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Andres Garcia\Documents\GitHub\proyectoCapasPuntoNet-master\Presentacion\obj\Debug\Presentacion.pdb

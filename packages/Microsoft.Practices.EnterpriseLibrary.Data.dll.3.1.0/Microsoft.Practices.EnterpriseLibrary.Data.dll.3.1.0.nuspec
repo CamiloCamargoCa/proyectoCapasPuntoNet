@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Practices.EnterpriseLibrary.Data.dll</id>
+    <version>3.1.0</version>
+    <title>Microsoft.Practices.EnterpriseLibrary.Data.dll</title>
+    <authors>wx1983@gmail.com</authors>
+    <owners>wx1983@gmail.com</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft.Practices.EnterpriseLibrary.Data.dll</description>
+    <summary />
+    <dependencies>
+      <dependency id="Microsoft.Practices.EnterpriseLibrary.Common.dll" version="3.1.0" />
+    </dependencies>
+  </metadata>
+</package>
