@@ -53,10 +53,10 @@ namespace Presentacion
 
                     //Se crean las variables de sesion
 
-                    /*Session["_Usuario"] = objUsuarioDTO.usu_nom;
+                    Session["_Usuario"] = objUsuarioDTO.usu_nom;
                     Session["_Rol"] = objUsuarioDTO.rol_id;
 
-                    Response.Redirect("MenuPrincipal.aspx");*/
+                    Response.Redirect("MenuPrincipal.aspx");
 
                 }
                 else

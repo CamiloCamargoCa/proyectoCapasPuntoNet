@@ -58,6 +58,7 @@
     <Compile Include="FacultadDTO.cs" />
     <Compile Include="JornadaControlador.cs" />
     <Compile Include="JornadaDTO.cs" />
+    <Compile Include="PrivilegiosRolDTO.cs" />
     <Compile Include="ProgramaControlador.cs" />
     <Compile Include="ProgramaDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

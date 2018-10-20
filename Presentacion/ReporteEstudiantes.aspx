@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
     <rsweb:ReportViewer ID="ReportViewer1" runat="server" Font-Names="Verdana" Font-Size="8pt" WaitMessageFont-Names="Verdana" WaitMessageFont-Size="14pt" Width="757px">
-        <LocalReport ReportPath="TmpReporteEstudiante.rdlc">
+        <LocalReport ReportPath="TmpReporteEstudiante.rdlc" ReportEmbeddedResource="Presentacion.TmpReporteEstudiante.rdlc">
             <DataSources>
                 <rsweb:ReportDataSource DataSourceId="dsEstudiantes" Name="dsEstudiantes" />
             </DataSources>

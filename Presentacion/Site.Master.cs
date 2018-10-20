@@ -68,7 +68,10 @@ namespace Presentacion
 
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if(Session["_Usuario"] != null){
+                lblusuario.Text = Session["_Usuario"].ToString();
+            }
+            
         }
 
         protected void Unnamed_LoggingOut(object sender, LoginCancelEventArgs e)

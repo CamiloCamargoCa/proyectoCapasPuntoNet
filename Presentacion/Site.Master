@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - Mi aplicación ASP.NET</title>
+    <title><%: Page.Title %>- Mi aplicación ASP.NET</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -72,6 +72,7 @@
                         </LoggedInTemplate>
                     </asp:LoginView>
                 </div>
+                <asp:Label ID="lblusuario" runat="server" ForeColor="Blue" Text="Bienvenido"></asp:Label>
             </div>
         </div>
         <div class="container body-content">
@@ -79,7 +80,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - Mi aplicación ASP.NET</p>
+                <p>&copy; <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=301884 --%>- Mi aplicación ASP.NET</p>
             </footer>
         </div>
     </form>

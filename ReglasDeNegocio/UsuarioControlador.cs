@@ -75,5 +75,61 @@ namespace ReglasDeNegocio
 
         }
 
+        public List<PrivilegiosRolDTO> ListarPrivilegiosRol(int rol , String Conexion)
+        {
+            //lista fisica
+            List<PrivilegiosRolDTO> lstprivilegiorol = new List<PrivilegiosRolDTO>();
+            string SQLCommand = "sp_privilegios_rol";
+            DataSet dsPrivilegiosRol = null;
+
+            try
+            {
+                SqlDatabase db = new SqlDatabase(Conexion);
+                DbCommand dbCommand = db.GetStoredProcCommand(SQLCommand);
+
+                db.AddInParameter(dbCommand, "rol", DbType.String, rol);
+
+                //consulta del motor para en memoria al programa
+                dsPrivilegiosRol = db.ExecuteDataSet(dbCommand);
+
+                //preguntar si tiene datos
+                if (dsPrivilegiosRol != null)
+                {
+                    if (dsPrivilegiosRol.Tables[0].Rows.Count > 0)
+                    {
+                        //un ciclo para recorrer los eementos sin limite
+                        foreach (DataRow oRow in dsPrivilegiosRol.Tables[0].Rows)
+                        {
+                            PrivilegiosRolDTO objPrivRol = new PrivilegiosRolDTO();
+                            objPrivRol.rolid = Convert.ToInt32(oRow["rol_id"]);
+                            objPrivRol.privnom = oRow["priv_nom"].ToString();
+                            objPrivRol.privurl = oRow["priv_url"].ToString();
+                            //Se añade el objeto dependencia a la lista
+                            lstprivilegiorol.Add(objPrivRol);
+
+                        }
+                    }
+                    else
+                    {
+                        lstprivilegiorol = null;
+                    }
+                }
+                else
+                {
+                    lstprivilegiorol = null;
+                }
+            }
+            catch (Exception oEx)
+            {
+                throw oEx;
+            }
+            finally
+            {
+                dsPrivilegiosRol.Dispose();
+            }
+
+            return lstprivilegiorol;
+        }
+
     }
 }
